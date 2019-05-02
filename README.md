@@ -20,3 +20,6 @@ data for "Percepts of Hungarian pitch-shifted male speech"
 - attribute: see paper
 - score: likert scale score (1-7)
 - score_type: subject marks stim: stimulus voice / self: themselves
+
+[![DOI](https://zenodo.org/badge/121420405.svg)](https://zenodo.org/badge/latestdoi/121420405)
+
